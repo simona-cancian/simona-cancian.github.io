@@ -1,5 +1,5 @@
 title: First Post on My Sweet New Blog
-date: 08/07/2024
+date: 2024-07-08
 author: Simona Cancian
 
 # I am On My Way To Internet Fame and Fortune!
